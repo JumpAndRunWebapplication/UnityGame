@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -6,12 +7,13 @@ public class PlayerMovement : MonoBehaviour
     private BoxCollider2D coll;
     private SpriteRenderer sprite;
     private Animator anim;
-    private float dirX = 0f;
+    private float horizontalMovement;
+    private bool jumKeyWasPressed;
     [SerializeField] private float moveSpeed = 7f;
     [SerializeField] private float jumpForce = 14f;
     [SerializeField] private LayerMask jumpableGround;
 
-    private enum MovementState { idle, running, jumping, falling }
+    private enum MovementState { Idle, Running, Jumping, Falling }
     
     // Start is called before the first frame update
     private void Start() 
@@ -25,12 +27,22 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     private void Update() 
     {
-        dirX = Input.GetAxisRaw("Horizontal");
-        rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
-            
-        if (Input.GetButtonDown("Jump") && isGrounded()) 
+        horizontalMovement = Input.GetAxisRaw("Horizontal");
+
+        if (Input.GetButtonDown("Jump") && isGrounded())
+        {
+            jumKeyWasPressed = true;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        rb.velocity = new Vector2(horizontalMovement * moveSpeed, rb.velocity.y);
+
+        if (jumKeyWasPressed)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+            jumKeyWasPressed = false;
         }
         
         UpdateAnimationState();
@@ -40,27 +52,27 @@ public class PlayerMovement : MonoBehaviour
     {
         MovementState state;
         
-        if (dirX > 0f)
+        if (horizontalMovement > 0f)
         {
-            state = MovementState.running;
+            state = MovementState.Running;
             sprite.flipX = false;
         }
-        else if (dirX < 0f)
+        else if (horizontalMovement < 0f)
         { 
-            state = MovementState.running;
+            state = MovementState.Running;
             sprite.flipX = true;
         }
         else
         {
-            state = MovementState.idle;
+            state = MovementState.Idle;
         }
 
         if (rb.velocity.y > .1f)
         {
-            state = MovementState.jumping;
+            state = MovementState.Jumping;
         } else if (rb.velocity.y < -.1f)
         {
-            state = MovementState.falling;
+            state = MovementState.Falling;
         }
         
         anim.SetInteger("state", (int)state);
