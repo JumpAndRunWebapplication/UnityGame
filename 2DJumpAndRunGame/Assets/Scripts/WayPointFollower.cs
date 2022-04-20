@@ -8,6 +8,8 @@ public class WayPointFollower : MonoBehaviour
     private int currentWaypointIndex = 0;
 
     [SerializeField] private float speed = 2f;
+    [SerializeField] private bool differentSpeed = false;
+    private float upwardsMovement = 2f;
 
     private void Update()
     {
@@ -20,7 +22,17 @@ public class WayPointFollower : MonoBehaviour
             }
         }
 
-        transform.position = Vector2.MoveTowards(transform.position, waypoints[currentWaypointIndex].transform.position,
-            Time.deltaTime * speed);
+        if (currentWaypointIndex == 0 && differentSpeed)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, waypoints[currentWaypointIndex].transform.position,
+                Time.deltaTime * upwardsMovement);
+        }
+        else
+        {
+            transform.position = Vector2.MoveTowards(transform.position, waypoints[currentWaypointIndex].transform.position,
+                Time.deltaTime * speed);
+        }
+        
+        
     }
 }

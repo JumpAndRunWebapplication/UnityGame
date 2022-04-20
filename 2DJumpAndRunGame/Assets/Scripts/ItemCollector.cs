@@ -4,15 +4,15 @@ using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
 {
-    private int kiwis = 0;
-    [SerializeField] private Text kiwisText; 
+    private int collectables = 0;
+    [SerializeField] private Text collectablesCounter; 
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.CompareTag("Kiwi"))
+        if (col.gameObject.CompareTag("Collectable"))
         {
             Destroy(col.gameObject);
-            kiwis++;
-            kiwisText.text = "Kiwis: " + kiwis;
+            collectables++;
+            collectablesCounter.text = "Collectable: " + collectables;
         }
     }
 }

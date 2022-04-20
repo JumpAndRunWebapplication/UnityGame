@@ -3,20 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="63f28b77-2f41-4063-a07a-9401c2a6e6fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2DJumpAndRunGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2DJumpAndRunGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player_Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player_Idle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player_Running.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player_Running.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Nature_pixel_art_assets/textures/Nature_props_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nature_pixel_art_assets/textures/Nature_props_01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Nature_pixel_art_assets/textures/nature_environment_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nature_pixel_art_assets/textures/nature_environment_01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Double Jump (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Double Jump (32x32).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Fall (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Fall (32x32).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Hit (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Hit (32x32).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Idle (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Idle (32x32).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Jump (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Jump (32x32).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Run (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Run (32x32).png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Wall Jump (32x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Main Characters/Virtual Guy/Wall Jump (32x32).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pixel Adventure 1/Assets/Terrain/Terrain (16x16) 1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Kiwi.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Kiwi.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Terrain.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Terrain.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1 Bettina.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1 Bettina.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemCollector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemCollector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WayPointFollower.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WayPointFollower.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,8 @@
       <updated>1649963451544</updated>
       <workItem from="1649963475146" duration="2000" />
       <workItem from="1650016401821" duration="1037000" />
+      <workItem from="1650453889687" duration="912000" />
+      <workItem from="1650463253216" duration="1202000" />
     </task>
     <servers />
   </component>
