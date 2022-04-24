@@ -963,6 +963,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1057,7 +1058,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ed51a0dc7d3a5e9c0800000000000000
-      internalID: -3898529755166009890
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -1078,7 +1079,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fdb311340a442a310800000000000000
-      internalID: 1414768688058416095
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -1099,7 +1100,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c5e70c077bf94a10800000000000000
-      internalID: 1894321607007528384
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -1120,7 +1121,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cde261562adaa8ca0800000000000000
-      internalID: -6013803439407616292
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -1141,7 +1142,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c163f837ab2910a0800000000000000
-      internalID: -6910444156008308288
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -1162,7 +1163,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7b90c718f28120920800000000000000
-      internalID: 2954950897823386039
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -1183,7 +1184,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 026490708aa6c20a0800000000000000
-      internalID: -6905026858760714720
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -1204,7 +1205,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f5f068be908899ad0800000000000000
-      internalID: -2694973325817016481
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -1225,7 +1226,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3d9c6eb9f42cb1010800000000000000
-      internalID: 1160734976151833043
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -1246,7 +1247,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 25a613a438a570340800000000000000
-      internalID: 4829928645310114386
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -1267,7 +1268,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1f757fe8ae97060d0800000000000000
-      internalID: -3431608867728435215
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -1288,7 +1289,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 624fb7208f4718240800000000000000
-      internalID: 4792240087041307686
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -1309,7 +1310,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c9fe687f8c41686f0800000000000000
-      internalID: -682835440121221220
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -1330,7 +1331,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e12df641cab9ffbc0800000000000000
-      internalID: -3747105201569410530
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -1351,7 +1352,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6aa1ed7f8a45fb720800000000000000
-      internalID: 2864100972720691878
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -1372,7 +1373,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84d0e98306f055570800000000000000
-      internalID: 8454680781399133512
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -1393,7 +1394,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bb3d9b0a248f5c2d0800000000000000
-      internalID: -3258925790284622917
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -1414,7 +1415,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2e91a44867fbaca00800000000000000
-      internalID: 777644401421326818
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -1435,7 +1436,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6446c92c53ac17b30800000000000000
-      internalID: 4283427052853158982
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -1456,7 +1457,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 02ea892b1a0ed45a0800000000000000
-      internalID: -6535320499154014688
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -1477,7 +1478,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 35146a72b041bb2d0800000000000000
-      internalID: -3261991466957389485
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -1498,7 +1499,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c44edc747b96531c0800000000000000
-      internalID: -4524594014719187892
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -1519,7 +1520,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 589640b780e524e70800000000000000
-      internalID: 9097937587758459269
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -1540,7 +1541,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5bc708a50e9a44770800000000000000
-      internalID: 8594180769985887413
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -1561,7 +1562,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 076886312b3ae0e40800000000000000
-      internalID: 5624612969857451632
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -1582,7 +1583,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b404351a51ba3be0800000000000000
-      internalID: -1496688925686365003
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -1603,7 +1604,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f01ea2e8278b3e10800000000000000
-      internalID: 2178483454435266809
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -1624,7 +1625,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 34d9cbb0dd0f678c0800000000000000
-      internalID: -4001746386696757949
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -1645,7 +1646,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 99295936352b5ad90800000000000000
-      internalID: -7087062367374830951
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -1666,7 +1667,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8832a46983a044e0800000000000000
-      internalID: -1999418424058300274
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -1687,7 +1688,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 16a89457977b2f440800000000000000
-      internalID: 4968235071229758049
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -1708,7 +1709,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b534b0841b977b1f0800000000000000
-      internalID: -1029220187505999013
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -1729,7 +1730,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d6cf8a891ca630af0800000000000000
-      internalID: -431383759574991763
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -1750,7 +1751,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 307da47697b71b460800000000000000
-      internalID: 7255716236024796931
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -1771,7 +1772,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 49cbfd30e12a28100800000000000000
-      internalID: 108827590808026260
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -1792,7 +1793,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ea1e25b3f66ac780800000000000000
-      internalID: -8661997736390944031
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -1813,7 +1814,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c5c6575c7d66ffac0800000000000000
-      internalID: -3819220882070082468
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -1834,7 +1835,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: daa2cf98b1981f740800000000000000
-      internalID: 5184075397452278445
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1855,7 +1856,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c658fe942011575d0800000000000000
-      internalID: -3065525269827713684
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1876,7 +1877,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9ee5c8ad6ae81d110800000000000000
-      internalID: 1283964216059649769
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -6784,6 +6785,280 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Nature_props_01_203: -7349703550274025868
+      Nature_props_01_82: -2094410824473410540
+      Nature_props_01_118: 5881282018527505358
+      Nature_props_01_156: -4652822316859719108
+      Nature_props_01_216: 1249150336115562004
+      Nature_props_01_206: -2984753833718076596
+      Nature_props_01_49: 7605047794062543337
+      Nature_props_01_212: 9113012944056036532
+      Nature_props_01_93: 3021570511545225734
+      Nature_props_01_96: -2048885599741728474
+      Nature_props_01_59: -312869084179363728
+      Nature_props_01_199: 1931566846702343032
+      Nature_props_01_226: -590838896991269396
+      Nature_props_01_142: 4696504068996913260
+      Nature_props_01_162: 4087209289919246816
+      Nature_props_01_183: -9162758108223370731
+      Nature_props_01_23: 21300046
+      Nature_props_01_223: 8170886885518281494
+      Nature_props_01_241: 2102189743542492332
+      Nature_props_01_85: -3774806847499923858
+      Nature_props_01_86: 1759837321132723424
+      Nature_props_01_260: 8556826021874747171
+      Nature_props_01_46: -3196099062673687635
+      Nature_props_01_225: -6847466237946970176
+      Nature_props_01_30: 21300060
+      Nature_props_01_159: 8593911206972997927
+      Nature_props_01_71: 7953366227076142220
+      Nature_props_01_64: -5307465737276407197
+      Nature_props_01_263: 2216050277105930984
+      Nature_props_01_179: 8313661260793070165
+      Nature_props_01_62: -1733135588417368758
+      Nature_props_01_147: -3996312538784776643
+      Nature_props_01_208: -971494844737042354
+      Nature_props_01_177: -5111671853396973302
+      Nature_props_01_245: 7597915453472989914
+      Nature_props_01_13: 21300026
+      Nature_props_01_141: -2199529413761796672
+      Nature_props_01_246: -7801640901701641499
+      Nature_props_01_32: 21300064
+      Nature_props_01_106: 8453693055458460105
+      Nature_props_01_127: -928329618604079104
+      Nature_props_01_3: 21300006
+      Nature_props_01_222: -3170263896875467685
+      Nature_props_01_126: -6087901604689109813
+      Nature_props_01_228: 8480671454626235961
+      Nature_props_01_56: -6142094930527074072
+      Nature_props_01_146: -1851420821477767972
+      Nature_props_01_230: -5388965989573639730
+      Nature_props_01_21: 21300042
+      Nature_props_01_83: 1788215975169229287
+      Nature_props_01_63: 131125784600805127
+      Nature_props_01_91: 6715122484570503214
+      Nature_props_01_51: 1710617007985007596
+      Nature_props_01_167: -4595793971476450809
+      Nature_props_01_265: -4629350002400456247
+      Nature_props_01_196: 4854824448359333726
+      Nature_props_01_204: 5238433227210398448
+      Nature_props_01_242: -6242704488672860411
+      Nature_props_01_237: -7940015023641779921
+      Nature_props_01_218: 2639717857826480506
+      Nature_props_01_61: 5916840934667625130
+      Nature_props_01_176: -430111747684700749
+      Nature_props_01_97: -8816985703483562191
+      Nature_props_01_186: -4931918270142613578
+      Nature_props_01_153: 478532798869833278
+      Nature_props_01_67: 1046291578945406770
+      Nature_props_01_115: -4974645842763267477
+      Nature_props_01_234: 5477036447167293081
+      Nature_props_01_270: -1401620132434759350
+      Nature_props_01_224: -2937756043850010942
+      Nature_props_01_166: -5223701941548502562
+      Nature_props_01_18: 21300036
+      Nature_props_01_99: -218855703721313665
+      Nature_props_01_207: 1711214847558374822
+      Nature_props_01_120: 1661451565725246886
+      Nature_props_01_121: -424581550620487716
+      Nature_props_01_163: -9220908055501339148
+      Nature_props_01_197: -3534304736461403702
+      Nature_props_01_123: -403006459000665272
+      Nature_props_01_140: -5352587226793202708
+      Nature_props_01_15: 21300030
+      Nature_props_01_69: 8971666508445231032
+      Nature_props_01_113: 3629620664697131975
+      Nature_props_01_77: 2714813258800921791
+      Nature_props_01_28: 21300056
+      Nature_props_01_33: 21300066
+      Nature_props_01_117: -7596487269434358677
+      Nature_props_01_124: 2087070658836844763
+      Nature_props_01_73: 6010637185224459034
+      Nature_props_01_160: -4729126452387972212
+      Nature_props_01_149: -2292883555265370218
+      Nature_props_01_88: -5887874877612715515
+      Nature_props_01_188: -879910584182243396
+      Nature_props_01_133: 6138257209813817182
+      Nature_props_01_94: -201165099365045586
+      Nature_props_01_116: -617608849689050318
+      Nature_props_01_75: -8618989431219626538
+      Nature_props_01_7: 21300014
+      Nature_props_01_180: 1201093843988320986
+      Nature_props_01_22: 21300044
+      Nature_props_01_100: -619537240400126809
+      Nature_props_01_95: -1777863565241661925
+      Nature_props_01_187: -849085439238233682
+      Nature_props_01_201: 6032866122990559182
+      Nature_props_01_236: 6180640117099705738
+      Nature_props_01_84: -6276077479212258447
+      Nature_props_01_267: -6060060389007316033
+      Nature_props_01_2: 21300004
+      Nature_props_01_193: -3400506800014911122
+      Nature_props_01_53: -5033795491729739149
+      Nature_props_01_259: -1553555607297481481
+      Nature_props_01_52: 5942773188997578515
+      Nature_props_01_136: -4348065113366137490
+      Nature_props_01_173: -3396279737125562322
+      Nature_props_01_154: 7260798764262209260
+      Nature_props_01_229: -3079827203748156296
+      Nature_props_01_261: -5471519388787622965
+      Nature_props_01_76: 2222327067133400615
+      Nature_props_01_125: 6143645505833674154
+      Nature_props_01_168: 3095073186439703740
+      Nature_props_01_157: -8236643637061999636
+      Nature_props_01_107: -9110805616001495478
+      Nature_props_01_39: 21300078
+      Nature_props_01_122: 5278940679564379750
+      Nature_props_01_220: -2849741072098094301
+      Nature_props_01_235: -4722378786329276880
+      Nature_props_01_240: -4119631208620429504
+      Nature_props_01_8: 21300016
+      Nature_props_01_70: -8403450054451948540
+      Nature_props_01_174: 5324618451067994651
+      Nature_props_01_164: 3308621762431627874
+      Nature_props_01_81: -8396029286761373487
+      Nature_props_01_114: 5812778887317374935
+      Nature_props_01_169: 5070556026720680063
+      Nature_props_01_249: 4167142112526198347
+      Nature_props_01_272: 816223683766690951
+      Nature_props_01_24: 21300048
+      Nature_props_01_262: -7776336827547926317
+      Nature_props_01_210: 6634107058469937690
+      Nature_props_01_148: 8546589851649556633
+      Nature_props_01_189: -1651137673603122556
+      Nature_props_01_79: -5527440340773755923
+      Nature_props_01_231: -552698505421348550
+      Nature_props_01_211: 1073149139210868944
+      Nature_props_01_232: -4616063482650508691
+      Nature_props_01_101: 6266191537497620615
+      Nature_props_01_108: -3884549979409627278
+      Nature_props_01_258: 6960122236525103360
+      Nature_props_01_9: 21300018
+      Nature_props_01_45: 827754850972423059
+      Nature_props_01_60: 1170425011625352742
+      Nature_props_01_48: -6162390238680503756
+      Nature_props_01_109: 6799102152656103343
+      Nature_props_01_175: -9044526818744748172
+      Nature_props_01_12: 21300024
+      Nature_props_01_57: -1610615682144604713
+      Nature_props_01_251: -6399253566693343194
+      Nature_props_01_20: 21300040
+      Nature_props_01_209: 7103371988324607555
+      Nature_props_01_41: 3340032095507117447
+      Nature_props_01_90: -7666978086117165183
+      Nature_props_01_151: 4089835244993625697
+      Nature_props_01_200: 7983568066243375241
+      Nature_props_01_158: -1060438463281864645
+      Nature_props_01_181: -7292276019111474775
+      Nature_props_01_10: 21300020
+      Nature_props_01_255: -2633518089463904709
+      Nature_props_01_252: 7746435304525401460
+      Nature_props_01_257: -3996626916503325427
+      Nature_props_01_112: -7520903024743660061
+      Nature_props_01_256: -2864400214300477307
+      Nature_props_01_43: 8749904683623051353
+      Nature_props_01_194: 2736729236854554071
+      Nature_props_01_68: 8487659415587162119
+      Nature_props_01_44: 2218143919528825934
+      Nature_props_01_129: 8497550410634142336
+      Nature_props_01_161: 854304070826982988
+      Nature_props_01_47: -1898928766492327623
+      Nature_props_01_36: 21300072
+      Nature_props_01_198: -8455076002842237605
+      Nature_props_01_244: 8072426030677168523
+      Nature_props_01_250: 3364610028646146576
+      Nature_props_01_165: 4565213729257056899
+      Nature_props_01_74: 7532281860831525940
+      Nature_props_01_42: 5740108128554148999
+      Nature_props_01_40: 2510916838565284029
+      Nature_props_01_102: -3200830031382078859
+      Nature_props_01_111: -6914242424418603857
+      Nature_props_01_185: -6999615211447844083
+      Nature_props_01_192: 5336374968601109818
+      Nature_props_01_138: -905313481059326661
+      Nature_props_01_103: -4446867403165090255
+      Nature_props_01_5: 21300010
+      Nature_props_01_104: 928902731002783301
+      Nature_props_01_233: -4777853001140774672
+      Nature_props_01_184: 2211196723105656249
+      Nature_props_01_80: 6611765827163205157
+      Nature_props_01_254: 4059297995044955687
+      Nature_props_01_130: -9130524213002280017
+      Nature_props_01_29: 21300058
+      Nature_props_01_152: -5478460902781691166
+      Nature_props_01_143: -339411873187197056
+      Nature_props_01_271: -1234506876193867474
+      Nature_props_01_6: 21300012
+      Nature_props_01_31: 21300062
+      Nature_props_01_191: 4425731390378390369
+      Nature_props_01_221: -7523612409405977337
+      Nature_props_01_0: 21300000
+      Nature_props_01_248: 2606473257860958831
+      Nature_props_01_35: 21300070
+      Nature_props_01_19: 21300038
+      Nature_props_01_137: -6881415038394298446
+      Nature_props_01_72: 1909476889309646766
+      Nature_props_01_26: 21300052
+      Nature_props_01_119: 7562967003668649349
+      Nature_props_01_170: -3123813631018664990
+      Nature_props_01_195: 7915018560583627474
+      Nature_props_01_178: 4814278489705103807
+      Nature_props_01_219: -5457794361453170713
+      Nature_props_01_266: 2973778461359627945
+      Nature_props_01_34: 21300068
+      Nature_props_01_78: 2132021917460851905
+      Nature_props_01_268: 5043927415479953165
+      Nature_props_01_66: 7498275621552695996
+      Nature_props_01_145: -2405992105195043647
+      Nature_props_01_110: -7319427857923534866
+      Nature_props_01_171: 9210500602748535026
+      Nature_props_01_87: 1265762194023727622
+      Nature_props_01_190: 7994887802443552400
+      Nature_props_01_134: -2730504250779326584
+      Nature_props_01_55: 1329978633299903699
+      Nature_props_01_50: 7673360226741413598
+      Nature_props_01_105: 3277377953869931131
+      Nature_props_01_65: -8925410864006485136
+      Nature_props_01_135: 4969452090084579657
+      Nature_props_01_238: 1092285735228915237
+      Nature_props_01_215: -8504305634949792911
+      Nature_props_01_17: 21300034
+      Nature_props_01_4: 21300008
+      Nature_props_01_139: -2861957269442362961
+      Nature_props_01_269: -3676983740559897031
+      Nature_props_01_247: -460750951515406251
+      Nature_props_01_243: 833116774904612815
+      Nature_props_01_92: 4310139115307131864
+      Nature_props_01_11: 21300022
+      Nature_props_01_128: 3580533415345273728
+      Nature_props_01_54: 4858148337926968880
+      Nature_props_01_37: 21300074
+      Nature_props_01_155: -4617286925861839957
+      Nature_props_01_14: 21300028
+      Nature_props_01_150: 3027890441120307495
+      Nature_props_01_213: -3253667652528426257
+      Nature_props_01_131: 1858865164812643318
+      Nature_props_01_202: 9169604438336605679
+      Nature_props_01_38: 21300076
+      Nature_props_01_172: 2861774053323527809
+      Nature_props_01_264: -3477057831708955407
+      Nature_props_01_89: 1944995283133085167
+      Nature_props_01_1: 21300002
+      Nature_props_01_25: 21300050
+      Nature_props_01_239: -6194788699027930113
+      Nature_props_01_205: -4934335787629111649
+      Nature_props_01_132: -8664323594986251473
+      Nature_props_01_182: 58860868349532963
+      Nature_props_01_227: 8686457956929329250
+      Nature_props_01_27: 21300054
+      Nature_props_01_16: 21300032
+      Nature_props_01_253: -4194028806673051696
+      Nature_props_01_58: -2152548516744050342
+      Nature_props_01_144: 4031512409257454541
+      Nature_props_01_98: 5984382415827729714
+      Nature_props_01_217: -8326824717452335599
+      Nature_props_01_214: -3289201666255183325
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
