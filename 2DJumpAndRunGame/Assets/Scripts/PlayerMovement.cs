@@ -67,10 +67,10 @@ public class PlayerMovement : MonoBehaviour
             state = MovementState.Idle;
         }
 
-        if (rb.velocity.y > .1f)
+        if (rb.velocity.y > .1f && !isGrounded())
         {
             state = MovementState.Jumping;
-        } else if (rb.velocity.y < -.1f)
+        } else if (rb.velocity.y < -.1f && !isGrounded())
         {
             state = MovementState.Falling;
         }
