@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Trap
   - Collectable
+  - Cherry
   layers:
   - Default
   - TransparentFX
