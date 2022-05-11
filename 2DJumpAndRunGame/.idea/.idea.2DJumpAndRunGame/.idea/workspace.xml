@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="63f28b77-2f41-4063-a07a-9401c2a6e6fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2DJumpAndRunGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2DJumpAndRunGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Finish.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Finish.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spike Head.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spike Head.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level Rafael.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level Rafael.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1 Bettina 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1 Bettina 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ItemCollector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ItemCollector.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
@@ -68,6 +66,7 @@
       <workItem from="1650453889687" duration="912000" />
       <workItem from="1650463253216" duration="1202000" />
       <workItem from="1650916294492" duration="1176000" />
+      <workItem from="1652276311281" duration="1456000" />
     </task>
     <servers />
   </component>
@@ -77,6 +76,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
