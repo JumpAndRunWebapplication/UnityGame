@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63f28b77-2f41-4063-a07a-9401c2a6e6fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Terrain.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Terrain.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level Rafael.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level Rafael.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2DJumpAndRunGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2DJumpAndRunGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rock Head.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rock Head.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1 Bettina 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1 Bettina 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 2 Bettina.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 2 Bettina.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level Rafael.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level Rafael.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FallingPlattform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FallingPlattform.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FallingPlattform.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FallingPlattform.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +72,8 @@
       <workItem from="1650916294492" duration="1176000" />
       <workItem from="1652276311281" duration="1456000" />
       <workItem from="1652377620891" duration="1000" />
+      <workItem from="1652531702959" duration="160000" />
+      <workItem from="1652531902804" duration="1628000" />
     </task>
     <servers />
   </component>
