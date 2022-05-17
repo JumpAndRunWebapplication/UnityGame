@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectMenu.unity
+    guid: 6ed7b68d03f43244ba32bdccadf51187
+  - enabled: 1
+    path: Assets/Scenes/Hazal level 3.unity
+    guid: 39bad070121c1e84299cca72f44d83ae
   m_configObjects: {}
