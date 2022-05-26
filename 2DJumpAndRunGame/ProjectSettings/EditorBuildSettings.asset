@@ -5,22 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/LevelSelectMenu.unity
     guid: 6ed7b68d03f43244ba32bdccadf51187
   - enabled: 1
-    path: Assets/Scenes/Hazal level 3.unity
+    path: Assets/Scenes/Level1.unity
+    guid: 6bbfbb2074345b3448a9f6df8a28dea9
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
     guid: 39bad070121c1e84299cca72f44d83ae
   - enabled: 1
-    path: Assets/Scenes/Hazal new Level.unity
+    path: Assets/Scenes/Level3.unity
     guid: f9e2d892472527a4380ed6cda6d9f690
   - enabled: 1
-    path: Assets/Scenes/Level 1 Rafael.unity
+    path: Assets/Scenes/Level4.unity
+    guid: 360bfce5cdfeec141a90a90aac768302
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
     guid: efb3da3e9dbf26246af0c1cdf10258e9
   - enabled: 1
-    path: Assets/Scenes/Level 2 Rafael.unity
+    path: Assets/Scenes/Level6.unity
+    guid: 39037af15c52b3a4bb5def7d44d6312e
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: d0d2946b1bd490441a1c8c319e0f45b3
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
     guid: 30435a679b6898d478706e5e76032699
   m_configObjects: {}
